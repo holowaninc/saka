@@ -8,5 +8,4 @@ body{font-family:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Ox
 /* Logo Styling (Navbar and Footer) */
 .logo-img{height:40px;width:auto}.footer-logo{height:75px;width:auto}
 /* Responsiveness for Logos, Navbar, Hero, and Form */
-
 @media (max-width:768px){.logo-img{height:30px}.footer-logo{height:60px}.hero{height:auto;padding:4rem 0}.hero-overlay{max-width:100%;padding:1rem}.navbar-collapse{background:#fff;padding:1rem;box-shadow:0 4px 8px rgba(0,0,0,.1)}}
